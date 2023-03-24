@@ -1,0 +1,13 @@
+.countries-container{
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid rgb(134, 153, 172);
+    box-shadow: 5px 5px 5px rgb(80, 79, 79);
+    border-radius: 10px;
+    width: 300px;
+
+  }
+  .imgs{
+    width: 250px;
+    border-radius: 5px;
+  }
